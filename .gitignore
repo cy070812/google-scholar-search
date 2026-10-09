@@ -1,0 +1,18 @@
+# 本地凭据，绝不提交
+config.json
+
+# 本地缓存
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

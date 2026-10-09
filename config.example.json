@@ -1,0 +1,9 @@
+{
+  "provider": "serpapi",
+  "serpapi_api_key": null,
+  "proxy": null,
+  "language": "en",
+  "default_limit": 10,
+  "cache_ttl_hours": 24,
+  "max_pages": 3
+}
