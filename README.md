@@ -2,6 +2,8 @@
 
 > 一个 **一次配置、长期复用** 的 Google Scholar 检索 Skill。安装后只需输入一次凭据，之后每次调用都不再需要任何账号或密码。
 
+源码仓库：<https://github.com/cy070812/google-scholar-search>
+
 ## 它解决什么问题
 
 Google Scholar **没有官方 API**，而程序化登录 Google 账号既不必要（Scholar 结果全部公开）又有封号风险。
